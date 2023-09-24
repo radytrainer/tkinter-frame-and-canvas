@@ -60,7 +60,7 @@ window.mainloop()
 
 <img src="canvas.png">
 
-#### Create canvas in frame container
+#### Create shape and text in canvas
 ```python
 import tkinter as tk
 
